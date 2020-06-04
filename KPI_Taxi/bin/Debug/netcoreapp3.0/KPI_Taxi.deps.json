@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "KPI_Taxi/1.0.0": {
+        "dependencies": {
+          "TaxiLib": "1.0.0"
+        },
+        "runtime": {
+          "KPI_Taxi.dll": {}
+        }
+      },
+      "TaxiLib/1.0.0": {
+        "runtime": {
+          "TaxiLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KPI_Taxi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxiLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

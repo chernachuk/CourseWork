@@ -1,0 +1,14 @@
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\bin\Debug\netcoreapp3.0\KPI_Taxi.exe
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\bin\Debug\netcoreapp3.0\KPI_Taxi.deps.json
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\bin\Debug\netcoreapp3.0\KPI_Taxi.runtimeconfig.json
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\bin\Debug\netcoreapp3.0\KPI_Taxi.runtimeconfig.dev.json
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\bin\Debug\netcoreapp3.0\KPI_Taxi.dll
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\bin\Debug\netcoreapp3.0\KPI_Taxi.pdb
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\bin\Debug\netcoreapp3.0\TaxiLib.dll
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\bin\Debug\netcoreapp3.0\TaxiLib.pdb
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\obj\Debug\netcoreapp3.0\KPI_Taxi.csprojAssemblyReference.cache
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\obj\Debug\netcoreapp3.0\KPI_Taxi.AssemblyInfoInputs.cache
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\obj\Debug\netcoreapp3.0\KPI_Taxi.AssemblyInfo.cs
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\obj\Debug\netcoreapp3.0\KPI_Taxi.csproj.CopyComplete
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\obj\Debug\netcoreapp3.0\KPI_Taxi.dll
+C:\Users\Ponchik\source\repos\KPI_Taxi\KPI_Taxi\obj\Debug\netcoreapp3.0\KPI_Taxi.pdb

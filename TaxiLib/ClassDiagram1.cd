@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TaxiLib.Clients">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAIAAAAAgAEAAAAAAQAAAAAAAAAAAAAAAAEAEA=</HashCode>
+      <FileName>Clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLib.Client">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACAAAAQgAAAAAAAAAAAEAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLib.Employees">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAARQAAAAEAAAAAAQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLib.Worker">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLib.Ride">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="TaxiLib.Ride.InfoDay" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Ride.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIQQAAAgAAEAAAAIAAAAAAABAAAAAAEAAAAA=</HashCode>
+      <FileName>Ride.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLib.TaxiPark">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAQAAAAAAAQQABAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>TaxiPark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Delegate Name="TaxiLib.MyEventHandler" Collapsed="true">
+    <Position X="15" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clients.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
